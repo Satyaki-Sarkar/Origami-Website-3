@@ -1,0 +1,31 @@
+h1{
+    color: rgb(0);
+    text-size: 100;
+    text-align: center;
+}
+
+.menu{
+    text-align: center;
+}
+
+.group1,.group2,.group3{
+    display : flex;
+    justify-content: space-between;
+}
+
+img{
+    background-color: blueviolet;
+    border: rgb(0);
+}
+
+.header{
+    background-image: url(origami.png);
+}
+
+.content{
+    background-image: url(origami2.png);
+}
+
+.About{
+    background-image: url(origami3.png);
+}
