@@ -1,7 +1,12 @@
 h1{
     color: rgb(0);
+    background-color:;
     text-size: 100;
+    text-shadow: 2px 2px 5px red;
     text-align: center;
+    font-style: ;
+    margin-top: 20px;
+    font-size: 50px;
 }
 
 .menu{
@@ -14,12 +19,13 @@ h1{
 }
 
 img{
-    background-color: blueviolet;
+    background-color: rgb(148, 20, 173);
     border: rgb(0);
 }
 
 .header{
     background-image: url(origami.png);
+    background-repeat: repeat-x;
 }
 
 .content{
@@ -28,4 +34,45 @@ img{
 
 .About{
     background-image: url(origami3.png);
+}
+
+.origami{
+    border: 2px solid gray;
+    border-radius: 8px;
+    width: 40%;
+    height: 600px;
+    background-image: url(background.png);
+    
+}
+
+.origami p{
+    text-align: center;
+}
+
+.origami li{
+    font-style: georgian;
+}
+
+.origami img{
+    align-self: center;
+    border: 6px solid orangered;
+    border-style: inset;
+}
+
+.group1{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.group2{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.group3{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
