@@ -49,14 +49,24 @@ img{
     text-align: center;
 }
 
-.origami li{
-    font-style: georgian;
+.origami ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .origami img{
     align-self: center;
     border: 6px solid orangered;
     border-style: inset;
+}
+
+.origami h2{
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 6px 0px 8px rgb(128,156,110);
+}
+
+.origami img{
+    margin-left: 25%;
 }
 
 .group1{
